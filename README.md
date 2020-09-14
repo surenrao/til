@@ -24,5 +24,9 @@ Today I Learned
 ### Software
 - [Ninite](https://ninite.com)
 - [OBS Studio](https://obsproject.com/)
+- TechPowerUp GPU-Z Details about Graphics card
+- CPUID HWMonitor - System monitoring
+- Unigine Heaven Benchmark - for monitoring temp
+- MSI Afterburner - GPU overclocking
 
 ### CoolTech
