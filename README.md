@@ -20,7 +20,7 @@ Best Features/things to have based on what I know
 - X570 motherboards (support PCI-4)
 - SSD nvme m.2 PCI-4 1TB
 - [Mobro](https://www.mod-bros.com/en/projects/mobro) THE CUSTOM pi MONITORING SCREEN!
-- Mechanical Keyboard
+- Mechanical Keyboard tenkeyless
 - Should Cable manage
 - Standing desk
 - Mesh chair https://www.hermanmiller.com/
