@@ -20,6 +20,7 @@ Today I Learned
 - Mechanical Keyboard
 - Should Cable manage
 - Standing desk
+- (long power strip with well spaced plugs)[https://www.amazon.com/dp/B07SG689YS/ref=cm_sw_em_r_mt_dp_1VTxFbGNHB3YC] to directly attach to a table
 
 ### Software
 - [Ninite](https://ninite.com)
