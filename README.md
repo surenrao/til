@@ -35,3 +35,6 @@ Best Features/things to have based on what I know
 - MSI Afterburner - GPU overclocking
 
 ### CoolTech
+
+### Git
+- Make free website https://pages.github.com/ as root and also each pages for each repo
