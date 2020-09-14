@@ -10,7 +10,8 @@ Today I Learned
 
 ### PcBuild
 - https://pcpartpicker.com/guide/ nice examples
-- Monitor (21:9 aspect ratio, 144Hz, 1ms nano IPS, HDR)-- Modular power supply unit (new ATX12VO standard?)
+- Monitor (21:9 aspect ratio, 144Hz, 1ms nano IPS, HDR)
+- Modular power supply unit (new ATX12VO standard?)
 - Nvidia RTX 3080
 - AMD Ryzen 4000 series? 5GHz.
 - X570 motherboards (support PCI-4)
