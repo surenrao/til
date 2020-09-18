@@ -42,3 +42,4 @@ Best Features/things to have based on what I know
 ### Windows 10
 - https://github.com/Sycnex/Windows10Debloater
 - Shift restart to go to bios
+- pause windows update after full update. Do manual updates. So no background process will slow u down
