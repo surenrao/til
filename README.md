@@ -7,7 +7,7 @@ Today I Learned
 * [Cool Tech](#cooltech)
 * Cooking
 * Home DIY
-
+* Windows 10
 ---
 
 ### PcBuild
@@ -38,3 +38,7 @@ Best Features/things to have based on what I know
 
 ### Git
 - Make free website https://pages.github.com/ as root and also each pages for each repo
+
+### Windows 10
+- https://github.com/Sycnex/Windows10Debloater
+- Shift restart to go to bios
