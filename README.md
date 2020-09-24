@@ -33,9 +33,10 @@ Best Features/things to have based on what I know
 - CPUID HWMonitor or HWiNFO - System monitoring
 - Unigine Heaven Benchmark - for monitoring temp
 - MSI Afterburner - GPU overclocking
+- DDU - Display Driver Uninstaller
 
 ### CoolTech
-
+- nano leaf https://us-shop.nanoleaf.me/
 ### Git
 - Make free website https://pages.github.com/ as root and also each pages for each repo
 
