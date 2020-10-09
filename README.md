@@ -14,13 +14,13 @@ Today I Learned
 Best Features/things to have based on what I know
 - https://pcpartpicker.com/guide/ nice examples
 - Monitor (21:9 aspect ratio, 144Hz, 1ms nano IPS, HDR)
-- Modular power supply unit, has more power then needed for 80% efficiency (new ATX12VO standard?)
+- Modular power supply unit,80+ Gold, has more power then needed for 80% efficiency (new ATX12VO standard?)
 - Nvidia RTX 3080
-- AMD Ryzen 4000 series? 5GHz.
+- AMD Ryzen 5000 series? 5GHz.
 - X570 motherboards (support PCI-4)
 - SSD nvme m.2 PCI-4 1TB
 - [Mobro](https://www.mod-bros.com/en/projects/mobro) THE CUSTOM pi MONITORING SCREEN!
-- Mechanical Keyboard tenkeyless
+- Mechanical Keyboard tenkeyless usb-c wired & wireless 
 - Should Cable manage
 - Standing desk
 - Mesh chair https://www.hermanmiller.com/
@@ -34,7 +34,8 @@ Best Features/things to have based on what I know
 - Unigine Heaven Benchmark - for monitoring temp
 - MSI Afterburner - GPU overclocking
 - DDU - Display Driver Uninstaller
-
+- Armery Crate - https://rog.asus.com/us/innovation/armoury_crate/
+- cmos reset when motherboard troublshooting, will set bios to factory settings
 ### CoolTech
 - nano leaf https://us-shop.nanoleaf.me/
 ### Git
