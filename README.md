@@ -36,8 +36,11 @@ Best Features/things to have based on what I know
 - DDU - Display Driver Uninstaller
 - Armery Crate - https://rog.asus.com/us/innovation/armoury_crate/
 - cmos reset when motherboard troublshooting, will set bios to factory settings
+- nxFilter parental/network control
 ### CoolTech
 - nano leaf https://us-shop.nanoleaf.me/
+- unifi ubiquiti homenetworking solution
+
 ### Git
 - Make free website https://pages.github.com/ as root and also each pages for each repo
 
