@@ -37,6 +37,8 @@ Best Features/things to have based on what I know
 - Armery Crate - https://rog.asus.com/us/innovation/armoury_crate/
 - cmos reset when motherboard troublshooting, will set bios to factory settings
 - nxFilter parental/network control
+- [Monitor test](https://www.testufo.com/)
+
 ### CoolTech
 - nano leaf https://us-shop.nanoleaf.me/
 - unifi ubiquiti homenetworking solution
