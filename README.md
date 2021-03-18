@@ -25,6 +25,10 @@ Best Features/things to have based on what I know
 - Standing desk
 - Mesh chair https://www.hermanmiller.com/
 - [long power strip with well spaced plugs](https://www.amazon.com/dp/B07SG689YS/ref=cm_sw_em_r_mt_dp_1VTxFbGNHB3YC) to directly attach to a table
+- PC RGB control ARMOURY CRATE https://rog.asus.com/us/innovation/armoury_crate/
+- custom cables for pc https://cablemod.com/
+- water cooling devices for pc https://www.performance-pcs.com/
+- pc case https://www.lian-li.com/pc-o11-dynamic/
 
 ### Software
 - [Ninite](https://ninite.com)
@@ -38,6 +42,7 @@ Best Features/things to have based on what I know
 - cmos reset when motherboard troublshooting, will set bios to factory settings
 - nxFilter parental/network control
 - [Monitor test](https://www.testufo.com/)
+- Windows new instal debloater https://github.com/Sycnex/Windows10Debloater 
 
 ### CoolTech
 - nano leaf https://us-shop.nanoleaf.me/
