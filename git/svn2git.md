@@ -6,6 +6,8 @@ if want all branches to be pushed then we need to add all branches locally. usin
  
     for b in $(git for-each-ref --format='%(refname:short)' refs/remotes/origin/); do new_branch=$(echo $b | sed 's/origin\///'); git branch $new_branch refs/remotes/$b && git branch -D -r $b; done
 
+
+Warning: you wont be able to merge svn back to git after deleting the trunk.
     git branch -d trunk
 
     git remote add origin http://your-git-domain/Project.git
