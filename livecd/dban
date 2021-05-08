@@ -1,0 +1,15 @@
+To Secure wipe Hardrive (warning very slow process)
+
+Download DBAN iso home edition from https://dban.org/
+
+download and install/run unetbootin from https://unetbootin.github.io/
+
+make a bootable live cd for dban
+
+For Error "Could not find ramdisk image:/ubninit" see here https://github.com/unetbootin/unetbootin/issues/97
+
+Basically Unetbootin doesn't configure syslinux.cfg properly, Solution: 
+
+Edit syslinux.cfg, replacing all occurrences of "ubninit" with "ISOLINUX.BIN" and the one occurrence of "ubnkern" with "DBAN.BZI". It's case sensitive, so make sure it's all uppercase.
+
+select DBAN when booting and select the drive to wipe by pressing space key then press F10 key.
