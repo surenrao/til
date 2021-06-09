@@ -5,4 +5,6 @@
   * ran `/etc/webmin/start` to start webmin then opened https://<192.168.ipaddress>:10000
   * Installed Docker
   * Installed Portainer
+  * Installed Thiea IDE (vscode in browser)
+  * Intalled Heimdall Application Dashboard
   
