@@ -12,7 +12,8 @@
   * grep
   * `rm -fr path/to/folder`
   * `sudo su` switch to root.
-  * 
+  * `netstat -an | grep 8000` see if port 8000 is used
+
 # Permission settings
 ## chmod [discussion thread](https://www.linux.org/threads/file-permissions-chmod.4124/), [Stackoverflow](https://stackoverflow.com/a/8328529/209609)
   * `sudo chmod -R 777 ./` give recursive permission to all the files in the current directory have all permissions.
