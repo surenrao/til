@@ -34,7 +34,8 @@
 ```
   * `chmod u=rwx,g=rx,o=rx /path/to/file` alternative syntax (no spaces used in permission)
 ## chown
-
+  * `chown -R user:root /home/user` change owner and group recursively
+ 
 # vi
   * `:wq` save and quit
   * `:q!` force quit without saving
@@ -44,4 +45,4 @@
 # restart system
   * `sudo reboot`
   * `sudo shutdown -r +5` will restart in 5 mins. replace `+5` with `now` for immediate.
-  * 
+
