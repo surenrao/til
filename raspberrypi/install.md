@@ -7,4 +7,4 @@
   * Installed Portainer
   * Installed Thiea IDE (vscode in browser)
   * Intalled Heimdall Application Dashboard
-  
+  * Installed Bind9 and configured using https://www.linuxbabe.com/ubuntu/set-up-local-dns-resolver-ubuntu-20-04-bind9 , https://catalin.works/blog/bind9-dns-setup-local-domain-names/ and https://github.com/Trellmor/bind-adblock
