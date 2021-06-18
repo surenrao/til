@@ -19,3 +19,4 @@
   ## Troublshoot steps
   * make sure port is applied to firewallD and apply config through webmin
   * restart server
+  * `curl -i https://<192.168.ipaddress>:<port>/`
