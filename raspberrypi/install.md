@@ -20,3 +20,4 @@
   * make sure port is applied to firewallD and apply config through webmin
   * restart server
   * `curl -i https://<192.168.ipaddress>:<port>/`
+  * https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/
