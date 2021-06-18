@@ -3,6 +3,7 @@
   * ran sudo apt-get update && apt-get upgrade-dist
   * Installed webmin [using instructions](https://sourceforge.net/p/webadmin/bugs/4742/)
   * ran `/etc/webmin/start` to start webmin then opened https://<192.168.ipaddress>:10000
+  * Installed firewallD and added all the exposed ports and applied config
   * Installed Docker
   * Installed Portainer
   * Installed Thiea IDE (vscode in browser)
@@ -14,3 +15,7 @@
   * https://www.home-assistant.io/installation/raspberrypi#docker-compose
   * https://github.com/oznu/docker-homebridge
   * https://docs.linuxserver.io/images/docker-habridge
+  
+  ## Troublshoot steps
+  * make sure port is applied to firewallD and apply config through webmin
+  * restart server
