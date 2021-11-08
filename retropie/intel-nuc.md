@@ -5,12 +5,22 @@
 * mkdir git && cd git && git clone --depth=1 https://github.com/RetroPie/Retropie-Setup.git
 * cd Retropie-Setup && sudo ./retropie_setup.sh
 * Do Basic Install
-* Setup Samba
+* [Setup Samba](https://github.com/surenrao/til/blob/master/retropie/samba.md)
 * sudo apt install ubuntu-drivers-common 
 * `sudo ubuntu-drivers autoinstall` if graphics card will install drivers
 * `sudo apt install lightdm openbox` for autologin and minimal X servers window manager.
-* Setup lightdm
-* 
+* `sudo apt install alsa-base alsa-utils pavucontrol pulseaudio` [for hdmi](https://askubuntu.com/a/1316585)
+* [Setup lightdm](https://github.com/surenrao/til/blob/master/retropie/lightdm.md)
+* sudo ./retropie_setup.sh
+* Configuration / tools > autostart > Enabled. Exit
+* `EDITOR=nano sudo visudo` 
+```
+surenrao     ALL=(ALL) NOPASSWD: ALL   
+```
+* sudo gpasswd -d surenrao sudo
+* sudo usermod -a -G audio surenrao
+* groups surenrao
+* restart
 
 ## References
 [Building a Custom Retrogaming PC with RetroPie and Ubuntu Minimal](https://www.youtube.com/watch?v=2yjsugy8hyc)
