@@ -6,6 +6,11 @@
 * cd Retropie-Setup && sudo ./retropie_setup.sh
 * Do Basic Install
 * Setup Samba
+* sudo apt install ubuntu-drivers-common 
+* `sudo ubuntu-drivers autoinstall` if graphics card will install drivers
+* `sudo apt install lightdm openbox` for autologin and minimal X servers window manager.
+* Setup lightdm
+* 
 
 ## References
 [Building a Custom Retrogaming PC with RetroPie and Ubuntu Minimal](https://www.youtube.com/watch?v=2yjsugy8hyc)
