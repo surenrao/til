@@ -1,4 +1,4 @@
-# Run RetroPie as Kiosk in Intel NUC Hades Canyon
+# Run RetroPie & Kodi as Kiosk in Intel NUC Hades Canyon
 * Download Ubuntu minimal and make Bootable USB using Roofus
 * Install and choose all defaults, Select SAMBA Server and SSH Server
 * sudo apt install git dialog unzip xmlstarlet
