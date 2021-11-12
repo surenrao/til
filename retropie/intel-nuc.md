@@ -30,3 +30,5 @@ surenrao     ALL=(ALL) NOPASSWD: ALL
 [Some apps install hints](https://www.ubuntuopenbox.com/lessons/course/)
 
 [To enable KODI](https://retropie.org.uk/docs/KODI/)
+
+[Alternative steps to install retropie](https://www.lucaswilliams.net/index.php/2020/04/23/retropie-on-the-intel-nuc-hades-canyon/)
