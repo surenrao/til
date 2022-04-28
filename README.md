@@ -5,6 +5,7 @@ Today I Learned
 * [PC Build](#pcbuild)
 * [Software](#software)
 * [Cool Tech](#cooltech)
+* [Web](#web)
 * Cooking
 * Home DIY
 * Windows 10
@@ -48,6 +49,10 @@ Best Features/things to have based on what I know
 ### CoolTech
 - nano leaf https://us-shop.nanoleaf.me/
 - unifi ubiquiti homenetworking solution
+
+### Web
+- Post about games https://news.ycombinator.com/item?id=31191152
+- Games https://merely.xyz/games/
 
 ### Git
 - Make free website https://pages.github.com/ as root and also each pages for each repo
