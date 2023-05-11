@@ -45,6 +45,10 @@ Best Features/things to have based on what I know
 - [Monitor test](https://www.testufo.com/)
 - Windows new instal debloater https://github.com/Sycnex/Windows10Debloater 
 - stream games from desktop to handheld https://moonlight-stream.org/
+- https://syncthing.net/ is a continuous file synchronization program
+- https://www.digikam.org/ Professional Photo Management with the Power of Open Source
+- https://www.darktable.org is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers
+- https://winaero.com/winaero-tweaker/ customize the appearance and behavior of the Win 7,10 etc in a flexible way
 
 ### CoolTech
 - nano leaf https://us-shop.nanoleaf.me/
